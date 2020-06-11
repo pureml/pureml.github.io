@@ -2,7 +2,7 @@
 layout: page
 title: About PureML
 permalink: /about/
-avatar: https://pureml.github.io/images/PureML-image.png
+#avatar: https://pureml.github.io/images/PureML-image.png
 ---
 
 We at PureML believe that while the Machine Learning revolutino is truly underway, there is one area whcih has been left comparatively untouched by this technology; technology itself.
